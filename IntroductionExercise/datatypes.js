@@ -5,6 +5,9 @@ let colonia = "";
 let lugar ="";
 
 console.log(typeof cadena);
+console.log(typeof true);
+console.log(typeof undefined);
+console.log(typeof null);
 
 //Variables definidas
 let palabra = "Hola";
@@ -23,6 +26,5 @@ let edad = 18;
 let nombreCompleto = "María López", estadoCivil2 = "casada", país2 = "España", edad2 = 30;
 
 //variable myAge y youAge
-let myAge = 19;
-let youAge = 22;
-console.log(myAge, yourAge);
+console.log(myAge=19);
+console.log(youAge=22);
